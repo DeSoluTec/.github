@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>wabalink</title>
+  <defs><clipPath id="wl-under"><rect x="196" y="256" width="140" height="110"/></clipPath></defs>
+  <rect width="512" height="512" rx="116" fill="#16213E"/>
+  <g transform="translate(10 -14)">
+    <path d="M146 398 L104 452 L196 424 Z" fill="#0E9F7E" stroke="#0E9F7E" stroke-width="10" stroke-linejoin="round"/>
+    <g transform="rotate(-40 256 256)" fill="none" stroke-width="48">
+      <rect x="80" y="196" width="210" height="120" rx="60" stroke="#0E9F7E"/>
+      <rect x="222" y="196" width="210" height="120" rx="60" stroke="#FF7A45"/>
+      <rect x="80" y="196" width="210" height="120" rx="60" stroke="#0E9F7E" clip-path="url(#wl-under)"/>
+    </g>
+  </g>
+</svg>
