@@ -30,7 +30,12 @@
     </td>
   </tr>
   <tr>
-    <td width="80" align="center"><img src="assets/sigsa.svg" alt="" width="56"></td>
+    <td width="80" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/sigsa-dark.svg">
+        <img src="assets/sigsa.svg" alt="" width="56">
+      </picture>
+    </td>
     <td>
       <strong>SIGSA</strong> — Sistema Integral de Gestión Societaria y Administrativa.<br>
       Contabilidad y gobierno corporativo de tu S.A.S. en un solo lugar: libros contables sobre el PUC, capital
