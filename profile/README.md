@@ -42,6 +42,15 @@
       social y accionistas, asambleas con votación y actas, y facturación electrónica.
     </td>
   </tr>
+  <tr>
+    <td width="80" align="center"><img src="assets/pharos.svg" alt="" width="56"></td>
+    <td>
+      <strong>Pharos</strong> — el panel para administrar tu servidor Debian, sin enredos.<br>
+      Lo útil de Webmin sin todo lo demás: indicadores del servidor, PM2 y servicios, Apache, PostgreSQL, correo,
+      cortafuegos y actualizaciones desde el navegador. Se instala en tu propio VPS y se entra con llaves de
+      acceso (passkeys), sin contraseñas.
+    </td>
+  </tr>
 </table>
 
 ## Contacto
