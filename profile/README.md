@@ -75,4 +75,5 @@ Todas nuestras apps para iOS: [desolutec.com/apps/ios](https://www.desolutec.com
 - Soporte: [soporte@desolutec.com](mailto:soporte@desolutec.com)
 - Seguridad o abuso: [abuse@desolutec.com](mailto:abuse@desolutec.com)
 
+<sub>Desarrollo y Soluciones Tecnológicas S.A.S. · NIT 902116127-8 · Matrícula mercantil 247620 (Cámara de Comercio de Tunja) · Tunja, Boyacá, Colombia.</sub><br>
 <sub>El código de nuestras aplicaciones es software propietario de DeSoluTec. Todos los derechos reservados.</sub>
