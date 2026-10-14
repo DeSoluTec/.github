@@ -53,6 +53,22 @@
   </tr>
 </table>
 
+## Apps para iOS
+
+<table>
+  <tr>
+    <td width="80" align="center"><img src="assets/arqueo-suelos.png" alt="" width="56"></td>
+    <td>
+      <strong><a href="https://www.desolutec.com/apps/ios/ArqueoSuelos/">Arqueo Suelos</a></strong> — identificación de suelos en campo, para iPhone y iPad.<br>
+      Un cuestionario guiado orienta a arqueólogos sobre el tipo de suelo y los estratos de su excavación, con
+      notas, fotos y perfiles estratigráficos. Funciona sin conexión y sin cuentas: los datos se quedan en el
+      dispositivo. Próximamente en el App Store.
+    </td>
+  </tr>
+</table>
+
+Todas nuestras apps para iOS: [desolutec.com/apps/ios](https://www.desolutec.com/apps/ios/)
+
 ## Contacto
 
 - Ventas y propuestas: [sales@desolutec.com](mailto:sales@desolutec.com)
